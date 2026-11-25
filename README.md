@@ -1,6 +1,6 @@
 <p align="center"><img src="public/favicon.svg" width="76" alt="Career Compass logo"></p>
 
-# AI-Based Career Prediction (Career Compass)
+# AI-Based Career Prediction 
 
 A web app that reads your resume and helps you choose and prepare for a career.
 
